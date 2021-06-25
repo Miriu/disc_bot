@@ -12,7 +12,7 @@ client.events = new Discord.Collection();
 
 
 
-client.login('ODQwMjQ3Nzc4MDE3MTQ4OTQ4.YJVbuQ.EUpoFZBKy0E697hlsvWLJc0CcQ8');
+client.login('token');
 
 
 
